@@ -40,18 +40,19 @@ $7.8B market size (2025) · 46% CAGR through 2030 · 40% of enterprise apps expe
 ---
 
 ## Not Sure Where to Start
-| I want                                    | Use this                                                                 |
-|------------------------------------------|-------------------------------------------------------------------------|
-| Build a production agent pipeline in Python | [LangGraph](#langgraph) or [CrewAI](#crewai)                         |
-| Build a production agent pipeline in TypeScript | [Mastra](#mastra) or [VoltAgent](#voltagent)                     |
-| Write and debug code autonomously          | [Claude Code](#claude-code) or [OpenHands](#openhands-opendevin)       |
-| Orchestrate large teams of agents          | [AutoGen](#autogen-microsoft-agent-framework) or [Swarms](#swarms-framework) |
-| Build without writing code                 | [Dify](#dify) or [Langflow](#langflow)                                 |
-| Add memory to an existing agent            | [Mem0](#mem0)                                                           |
-| Run code safely in a sandbox               | [E2B](#e2b)                                                             |
-| Add safety guardrails to any agent         | [AgentGuard](#agentguard)                                              |
-| Build a voice agent                        | [Pipecat](#pipecat)                                                     |
-| Learn the fundamentals first               | [Building Effective Agents](#building-effective-agents--anthropic)      |
+
+Here are quick recommendations depending on what you want to do:
+
+- Build a production agent pipeline in Python — [LangGraph](#langgraph) or [CrewAI](#crewai)
+- Build a production agent pipeline in TypeScript — [Mastra](#mastra) or [VoltAgent](#voltagent)
+- Write and debug code autonomously — [Claude Code](#claude-code) or [OpenHands](#openhands-opendevin)
+- Orchestrate large teams of agents — [AutoGen](#autogen-microsoft-agent-framework) or [Swarms](#swarms-framework)
+- Build without writing code — [Dify](#dify) or [Langflow](#langflow)
+- Add memory to an existing agent — [Mem0](#mem0)
+- Run code safely in a sandbox — [E2B](#e2b)
+- Add safety guardrails to any agent — [AgentGuard](#agentguard)
+- Build a voice agent — [Pipecat](#pipecat)
+- Learn the fundamentals first — [Building Effective Agents](#building-effective-agents--anthropic)
 
 ---
 
